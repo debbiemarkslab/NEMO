@@ -1,0 +1,3 @@
+*.pyc
+*.pdb
+examples/output/*
